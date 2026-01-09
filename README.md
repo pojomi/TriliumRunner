@@ -42,10 +42,6 @@ kquitapp6 krunner && krunner
 
 **Note:** Trilium Desktop must not be running when you click a search result. If Trilium is already open, clicking will not navigate to the note (though it causes no harm).
 
-## License
-
-[Your chosen license - GPL-3.0-or-later based on your metadata.json]
-
 ## Author
 
 pojomi
