@@ -1,0 +1,12 @@
+{
+  "KPlugin": {
+      "Authors": [{ "Email": "pojomi.dev@gmail.com", "Name": "pojomi" }],
+      "Description": "Search through Trilium Notes",
+      "EnabledByDefault": true,
+      "Icon": "trilium",
+      "License": "GPL-3.0-or-later",
+      "Name": "TriliumRunner",
+      "Version": "1.0"
+  },
+  "X-Plasma-Runner-Min-Letter-Count": 3
+}
